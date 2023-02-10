@@ -1,2 +1,1 @@
-#!/bi/bash
-whoami
+#!/bin/bash whoami
